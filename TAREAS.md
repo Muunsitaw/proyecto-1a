@@ -1,6 +1,6 @@
 | ID | Responsable Nombre | Usuario de GitHub | Descripción | Rama | Revisor Usuario | Estado | Enlace al PR |
 |----|--------------------|-------------------|-------------|------|-----------------|--------|--------------|
-| T01 | Eduardo C. A. | EduardoCorAl260110218 | Crear TAREAS.md, acordar responsables y revisores; incorporar esta guía en docs/. | organizacion/asignaciones | Muunsitaw | Pendiente | ________ |
+| T01 | Eduardo C. A. | EduardoCorAl260110218 | Crear TAREAS.md, acordar responsables y revisores; incorporar esta guía en docs/. | organizacion/asignaciones | Muunsitaw | Integrada | https://github.com/Muunsitaw/proyecto-1a/pull/6 |
 | T02 | Monserrat M. M. | Muunsitaw | Crear la base de archivos, .gitignore y un index.html mínimo. Definir los espacios de sus secciones. | estructura/base | EduardoCorAl260110218 | Pendiente | ________ |
 | T03 | Daniela V. M. | daann-n | Completar título, objetivo y problemática en index.html. | web/planteamiento | AngelDeJesusContrerasJimenez | Pendiente | ________ |
 | T04 | Daniela V. M. | daann-n | Explicar el proceso de análisis, programación, pruebas y colaboración. | web/metodologia | 260110863-Ian | Pendiente | ________ |
