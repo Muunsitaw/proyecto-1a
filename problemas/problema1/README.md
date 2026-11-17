@@ -1,4 +1,4 @@
-### Módulo financiero-lógico: cálculo de impuesto.
+### Módulo financiero-lógico: cálculo de impuesto
 ENUNCIADO:
 
 En el comercio electrónico de TI, el costo final de un equipo informático depende de políticas fiscales y de un esquema de subsidio educativo. Se debe diseñar un módulo que determine automáticamente la tasa de impuesto aplicable a un comprador, evaluando dos proposiciones atómicas:
@@ -9,7 +9,7 @@ p: “El comprador es estudiante acreditado” (1 = verdadero, 0 = falso)
 
 q: “El equipo adquirido es de catálogo educativo” (1 = verdadero, 0 = falso)
 
-NOTA: Para la simplificación del proceso de ingreso de respuestas se incluyeron en la interfaz gráfica casillas de selección (Se permite elegir entre "Si" o "No"). 
+NOTA: Para la simplificación del proceso de ingreso de respuestas se incluyeron en la interfaz gráfica casillas de selección (Se permite elegir entre "Si" o "No")
 
 SALIDAS:
 
