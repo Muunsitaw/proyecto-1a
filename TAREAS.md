@@ -4,7 +4,7 @@
 | T02 | Monserrat M. M. | Muunsitaw | Crear la base de archivos, .gitignore y un index.html mínimo. Definir los espacios de sus secciones. | estructura/base | EduardoCorAl260110218 | Integrada | https://github.com/Muunsitaw/proyecto-1a/pull/8 |
 | T03 | Daniela V. M. | daann-n | Completar título, objetivo y problemática en index.html. | web/planteamiento | AngelDeJesusContrerasJimenez | Integrada | https://github.com/Muunsitaw/proyecto-1a/pull/11 |
 | T04 | Daniela V. M. | daann-n | Explicar el proceso de análisis, programación, pruebas y colaboración. | web/metodologia | 260110863-Ian | Pendiente | ________ |
-| T05 | Ángel de J. C. J. | AngelDeJesusContrerasJimenez | Agregar tabla con nombre, matrícula, correo institucional, foto formal y enlace a la página personal de cada integrante. Subir las fotos. | web/integrantes | Muunsitaw | Pendiente | ________ |
+| T05 | Ángel de J. C. J. | AngelDeJesusContrerasJimenez | Agregar tabla con nombre, matrícula, correo institucional, foto formal y enlace a la página personal de cada integrante. Subir las fotos. | web/integrantes | Muunsitaw | Integrada | https://github.com/Muunsitaw/proyecto-1a/pull/16 |
 | T06 | Monserrat M. M. | Muunsitaw | Agregar la solución Java del problema 1 con comentarios. Comprobar compilación y ejecución. | java/problema-1 | EduardoCorAl260110218 | Pendiente | ________ |
 | T07 | Eduardo C. A. | EduardoCorAl260110218 | Completar el README del problema 1, incluido el ejemplo y las instrucciones reales de ejecución. | docs/problema-1 | Muunsitaw | Pendiente | ________ |
 | T08 | Ian M. A. | 260110863-Ian | Calcular y ejecutar diez casos del problema 1; registrar resultados y corregir el programa si corresponde. | pruebas/problema-1 | daann-n | Pendiente | ________ |
