@@ -41,14 +41,14 @@ DIAGRAMA DE FLUJO:
 ![Diagrama de flujo del módulo 1](img/DFD1.png)
 
 ### INSTRUCCIONES DESCARGAR PROGRAMA:
-1. Asegúrate de tener instalado Java en tu PC. Usa: java --version
+1. Asegúrate de tener instalado Java en tu PC. Usa: java --version. Además el IDE NetBeans.
 2. Clonar el repositorio de github con el código del programa a tu computadora local mediante la dirección ssh.
-3. Importar y abrir la carpeta scr mediante el IDE NetBeans.
+3. Entrar al IDE NetBeans, buscar el archivo mediante "Open File" en la ruta donde se gaurdó, navegar hasta la carpeta ~/scr/Distancias, y abrir.
 4. Ejecutar mediante RUN el programa.
 
-### INSTRUCCIONES EJECUCIÓN PROGRAMA:
+### INSTRUCCIONES PROGRAMA:
 1. Seleccioanr el "Módulo geométrico vectorial" desde el menú principal del programa.
-2. Una vez dentro de la interfaz, ingresar los siguientes campos: x1 (coordenada X en el punto 1), y1 (coordenada Y en el punto 1), x2 (coordenada X en el punto 2), y2 (coordenada Y en el punto 2). El programa en automático valida los datos de entrada, en caso de no ser los adecuados no permite su ingreso, además, si la coordenada el dato ingresado excede el rango permitido, se solicitará el reingreso por medio de una ventana emergente. Si se desea reiniciar los resultados y datos de entarda, se debe presionar el botón "Limpiar". 
+2. Una vez dentro de la interfaz, ingresar los siguientes campos: x1 (coordenada X en el punto 1), y1 (coordenada Y en el punto 1), x2 (coordenada X en el punto 2), y2 (coordenada Y en el punto 2). El programa en automático valida los datos de entrada, en caso de no ser los adecuados no permite su ingreso, además, si la coordenada el dato ingresado excede el rango permitido, se solicitará el reingreso por medio de una ventana emergente. Si se desea reiniciar los resultados y datos de entarda, se debe presionar el botón "Limpiar".
 3. Presionar el botón "Calcular" para realizar el cálculo correspondiente y mostrar los resultados. 
 4. El usuario tiene la opción de continuar usando el módulo, salir al menú principal con el botón "Volver al menú" o salir del programa presionando "Salir".
 
