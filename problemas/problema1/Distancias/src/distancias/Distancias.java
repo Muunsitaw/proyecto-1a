@@ -402,11 +402,6 @@ public class Distancias extends javax.swing.JFrame {
         limpiar();
         cuadrodedialogo(mensaje);//Pasa los párametros para mostrar el cuadro de diálogo
         }
-        else if(Y1T.getText().equals(Y2T.getText())){ //Válida que las coordenadas no esten encimadas
-            mensaje = "No sé puede realizar el cálculo con una coordenada sobre el otro";
-            limpiar();
-            cuadrodedialogo(mensaje);
-        }
         else if(Y1T.getText().equals(Y2T.getText()) && x1T.getText().equals(X2T.getText())){//Válida que las coordenadas no sean iguales
             mensaje = "No se puede realizar el cálculo de dos coordenadas iguales";
             limpiar();
