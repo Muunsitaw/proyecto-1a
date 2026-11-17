@@ -36,6 +36,10 @@ Mostrar los resultados al usuario.
 
 Como los incrementos se elevan al cuadrado, el signo no afecta la magnitud: d(P1, P2) = d(P2, P1).
 
+ALGORITMO (PSEUDOCÓDIGO):
+
+![Algoritmo del módulo 1](img/ALGORITMO1.png)
+
 DIAGRAMA DE FLUJO:
 
 ![Diagrama de flujo del módulo 1](img/DFD1.png)
@@ -47,7 +51,7 @@ DIAGRAMA DE FLUJO:
 4. Ejecutar mediante RUN el programa.
 
 ### INSTRUCCIONES PROGRAMA:
-1. Seleccioanr el "Módulo geométrico vectorial" desde el menú principal del programa.
+1. Seleccionar el "Módulo geométrico vectorial" desde el menú principal del programa.
 2. Una vez dentro de la interfaz, ingresar los siguientes campos: x1 (coordenada X en el punto 1), y1 (coordenada Y en el punto 1), x2 (coordenada X en el punto 2), y2 (coordenada Y en el punto 2). El programa en automático valida los datos de entrada, en caso de no ser los adecuados no permite su ingreso, además, si la coordenada el dato ingresado excede el rango permitido, se solicitará el reingreso por medio de una ventana emergente. Si se desea reiniciar los resultados y datos de entarda, se debe presionar el botón "Limpiar".
 3. Presionar el botón "Calcular" para realizar el cálculo correspondiente y mostrar los resultados. 
 4. El usuario tiene la opción de continuar usando el módulo, salir al menú principal con el botón "Volver al menú" o salir del programa presionando "Salir".
