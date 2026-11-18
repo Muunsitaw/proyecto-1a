@@ -23,6 +23,7 @@ En gráficos por computadora y modelado de redes, los desplazamientos de element
 
 TABLA VARIABLES:
 ![Tabla de variables problema 1](img/TABLA_ENTRADAS_P1.png)
+Imágen de autoría propia
 
 ### SOLUCIÓN:
 
@@ -39,16 +40,20 @@ Como los incrementos se elevan al cuadrado, el signo no afecta la magnitud: d(P1
 ALGORITMO (PSEUDOCÓDIGO):
 
 ![Algoritmo del módulo 1](img/ALGORITMO1.png)
+Imágen de autoría propia
 
 DIAGRAMA DE FLUJO:
 
 ![Diagrama de flujo del módulo 1](img/DFD1.png)
+Imágen de autoría propia
 
 ### INSTRUCCIONES DESCARGAR PROGRAMA:
-1. Asegúrate de tener instalado Java en tu PC. Usa: java --version. Además el IDE NetBeans.
-2. Clonar el repositorio de github con el código del programa a tu computadora local mediante la dirección ssh.
-3. Entrar al IDE NetBeans, buscar el archivo mediante "Open File" en la ruta donde se gaurdó, navegar hasta la carpeta ~/scr/Distancias, y abrir.
+1. Asegúrate de tener instalado Java en tu PC. Usa: java --version. Además el IDE NetBeans en la versión JDK 27.
+2. Clonar el repositorio de github con el código del programa a tu computadora local (Link a github: https://github.com/Muunsitaw/proyecto-1a).
+3. Entrar al IDE NetBeans, buscar el archivo mediante "Open File" en la ruta donde se gaurdó, navegar hasta la carpeta ~/scr/distancias, y abrir.
 4. Ejecutar mediante RUN el programa.
+
+NOTA: El programa solo es ejecutable en el entorno del IDE NetBeans.
 
 ### INSTRUCCIONES PROGRAMA:
 1. Seleccionar el "Módulo geométrico vectorial" desde el menú principal del programa.
@@ -82,4 +87,4 @@ Distancia: 5.00
 
 ENLACE A PRUEBAS:
 
-[Ir a tabla de pruebas](pruebas/casos_prueba1.png)
+[Ir a tabla de pruebas](pruebas/casos-prueba.md)
