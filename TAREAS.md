@@ -10,7 +10,7 @@
 | T08 | Ian M. A. | 260110863-Ian | Calcular y ejecutar diez casos del problema 1; registrar resultados y corregir el programa si corresponde. | pruebas/problema-1 | daann-n | Integrada | https://github.com/Muunsitaw/proyecto-1a/pull/26 |
 | T09 | Monserrat M. M. | Muunsitaw | Agregar la solución Java del problema 2 con comentarios. Comprobar compilación y ejecución. | java/problema-2 | EduardoCorAl260110218 | Integrada | https://github.com/Muunsitaw/proyecto-1a/pull/28 |
 | T10 | Eduardo C. A. | EduardoCorAl260110218 | Completar el README del problema 2, incluido el ejemplo y las instrucciones reales de ejecución. | docs/problema-2 | Muunsitaw | Integrada | https://github.com/Muunsitaw/proyecto-1a/pull/30 |
-| T11 | Ian M. A. | 260110863-Ian | Calcular y ejecutar diez casos del problema 2; registrar resultados y corregir el programa si corresponde. | pruebas/problema-2 | Muunsitaw | Pendiente | ________ |
+| T11 | Ian M. A. | 260110863-Ian | Calcular y ejecutar diez casos del problema 2; registrar resultados y corregir el programa si corresponde. | pruebas/problema-2 | Muunsitaw | Integrada | https://github.com/Muunsitaw/proyecto-1a/pull/32 |
 | T12 | Eduardo C. A. | EduardoCorAl260110218 | Agregar análisis de resultados y conclusión de ambos problemas, sustentados en las pruebas. | web/resultados | Muunsitaw | Pendiente | ________ |
 | T13 | Monserrat M. M. | Muunsitaw | Completar css/estilos.css, comprobar legibilidad y revisar los enlaces e imágenes de la web. | web/estilos | EduardoCorAl260110218 | Pendiente | ________ |
 | T14 | Daniela V. M. | daann-n | Preparar la presentación final y guardarla en presentacion/. Ensayar una exposición de doce minutos con participación de todos. | docs/presentacion | Muunsitaw | Pendiente | ________ |
