@@ -15,4 +15,24 @@
 | T13 | Monserrat M. M. | Muunsitaw | Completar css/estilos.css, comprobar legibilidad y revisar los enlaces e imágenes de la web. | web/estilos | EduardoCorAl260110218 | Integrada | https://github.com/Muunsitaw/proyecto-1a/pull/37 |
 | T14 | Daniela V. M. | daann-n | Preparar la presentación final y guardarla en presentacion/. Ensayar una exposición de doce minutos con participación de todos. | docs/presentacion | Muunsitaw | Integrada | https://github.com/Muunsitaw/proyecto-1a/pull/39 |
 | T15 | Ángel de J. C. J. | AngelDeJesusContrerasJimenez | Completar README.md con resumen, integrantes y enlaces a los entregables y al registro de tareas. | docs/portada-repo | Muunsitaw | Integradada | https://github.com/Muunsitaw/proyecto-1a/pull/42 |
-| T16 | Ángel de J. C. J. | AngelDeJesusContrerasJimenez | Revisar la entrega completa, corregir enlaces o documentación pendientes y registrar la revisión en docs/revision-final.md. | revision/final | Muunsitaw | Pendiente | ________ |
+| T16 | Eduardo C. A. | EduardoCorAl260110218 | Revisar la entrega completa, corregir enlaces o documentación pendientes y registrar la revisión en docs/revision-final.md. | revision/final | Muunsitaw | Pendiente | ________ |
+
+## Enlace URL web
+- [Página web del proyecto](https://muunsitaw.github.io/proyecto-1a/) 
+
+Responsable de la publicación: Mendoza Martínez Monserrat
+
+Usuario Github: Muunsitaw
+
+### DISTRIBUCIÓN TURNOS EXPOSICIÓN INTEGRADOR
+
+| Etapa | Responsable | Diapositivas |
+| :--- | :--- | :--- |
+| Presentación | Cornejo Álvarez Eduardo | 1-4 |
+| 1 - Descripción del problema | Contreras Jiménez Ángel de Jesús | 5-7 |
+| 2 - Definición de la solución | Vázquez Moctezuma Daniela | 8-14 |
+| 3 - Diseño de la solución | Maldonado Aguilar Ian | 15-17 |
+| 4 - Desarrollo de la solución | Mendoza Martínez Monserrat | 18-23 |
+| 5 - Depuración y pruebas | Contreras Jiménez Ángel de Jesús | 24-28 |
+| 6 - Documentación | Cornejo Álvarez Eduardo | 29 |
+| Conclusión | Cornejo Álvarez Eduardo | 30 |
