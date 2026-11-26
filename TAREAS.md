@@ -26,7 +26,7 @@ Usuario Github: Muunsitaw
 
 ### DISTRIBUCIÓN TURNOS EXPOSICIÓN INTEGRADOR
 
-| Etapa | Responsable | Diapositivas |
+| Etapa | Responsable | Diapositivas asignadas |
 | :--- | :--- | :--- |
 | Presentación | Cornejo Álvarez Eduardo | 1-4 |
 | 1 - Descripción del problema | Contreras Jiménez Ángel de Jesús | 5-7 |
