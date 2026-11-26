@@ -14,7 +14,7 @@ Se desarollo un único programa en Java con un menú de dos opciones. Cada opci�
 | Ángel de Jesús Contreras Jiménez | 260110489 | 260110489@itsoeh.edu.mx | [Página](https://angeldejesuscontrerasjimenez.github.io/my-page/) |
 
 ## Enlaces
-- [Página web del proyecto](web/paginas/index.html)
+- [Página web del proyecto](https://muunsitaw.github.io/proyecto-1a/)
 - [Código fuente del programa -Problema 1](problemas/problema1/Distancias/src/distancias/Distancias.java)
 - [Código fuente del programa -Problema 2](problemas/problema2/Impuestos/src/impuestos/Impuestos.java)
 - [Documentación del problema 1](problemas/problema1/README.md)

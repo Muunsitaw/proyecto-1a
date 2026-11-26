@@ -29,3 +29,9 @@ Se aceptan valores en las entradas de -999999999.99 hasta +999999999.99
 VALORES:
 
 El programa no acepta el ingreso de carcatéres especiales, letras, solo números reales.
+
+## Casos de error evaluados y corrección:
+
+2,3,4. Campos vacíos en los apartados correspondientes. Solución: Generar una ventana emergente para avisar al usario sobre la los campos no rellenados.  
+
+5. El número ingresado es muy grande (posible overflow). Solución: Se limitó rango de ingreso de valores para que no puedan afectar el funcionamiento del programa, se genera una ventana emergente ára avisar al usuaro si excede el rango.

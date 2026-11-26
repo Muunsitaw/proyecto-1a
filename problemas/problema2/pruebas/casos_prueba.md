@@ -29,3 +29,9 @@ Donde p = estudiante acreditado y q = equipo (producto) dentro del catálogo edu
 Para la validación de los resultados numéricos, se establece el uso estricto de 2 cifras decimales. 
 * **Prevención de errores de punto flotante:** Operaciones como la raíz cuadrada generan números irracionales con decimales infinitos (como $\sqrt{13} \approx 3.60555127...$). Truncar o redondear a 2 decimales estandariza la salida y elimina discrepancias mínimas provocadas por la arquitectura del procesador.
 * **Claridad y legibilidad:** En cálculos geométricos básicos y pruebas funcionales de escritorio, dos cifras decimales ofrecen el equilibrio ideal entre exactitud matemática y facilidad de lectura para el usuario final.
+
+## Casos de error evaluados y corrección:
+
+7,8,9. Campos vacíos en los apartados correspondientes. Solución: Generar una ventana emergente para avisar al usario sobre la los campos no rellenados.  
+
+6. El número ingresado es muy grande (posible overflow). Solución: Se limitó rango de ingreso de valores para que no puedan afectar el funcionamiento del programa, se genera una ventana emergente ára avisar al usuaro si excede el rango.
