@@ -55,14 +55,14 @@ DIAGRAMA DE FLUJO:
 Imágen de autoría propia
 
 ### INSTRUCCIONES DESCARGAR PROGRAMA:
-1. Asegúrate de tener instalado Java en tu PC. Usa: java --version. Además el IDE NetBeans en la versión JDK 27.
+1. Asegúrate de tener instalado Java en tu ordenador. Usa: java --version en la terminal (version 11 en adelante).
 2. Clonar el repositorio de github con el código del programa a tu computadora local (Link a github: https://github.com/Muunsitaw/proyecto-1a).
-3. Entrar al IDE NetBeans, buscar el archivo mediante "Open File" en la ruta donde se guardó, navegar hasta la carpeta ~/src/Impuestos, y abrir.
-4. Ejecutar mediante RUN el programa.
+3. Navegar en la terminal hasta llegar a la carpeta "Impuestos". (Ruta: ~/proyecto-1a-revision-final/problemas/problema2/Impuestos)
+4. Ejecutar el programa mediante el comando "./run.sh".
 
-NOTA: El programa solo es ejecutable en el entorno del IDE NetBeans.
+NOTA: Si tu sistema operativo muestra un error como el siguiente: "Permission denied" deberás ejecutar "chmod +x build.sh run.sh" para cambiar los permisos de los archivos en tu ordenador. Para más información: https://www.geeksforgeeks.org/linux-unix/what-does-chmod-x-do-and-how-to-use-it/ 
 
-### INSTRUCCIONES PROGRAMA:
+### INSTRUCCIONES USO PROGRAMA:
 1. Seleccionar el "Módulo de impuestos" desde el menú principal del programa.
 2. Una vez dentro de la interfaz, ingresar los siguientes campos: precio del producto, si el comprador es un estudiante acreditado (Sí o No) y si el producto está dentro del catálogo educativo (Sí o No). El programa en automático valida los datos de entrada: el campo de precio solo permite números y un punto decimal, no puede iniciar con 0 o con punto y admite máximo dos decimales. Si falta información o el precio está fuera del rango permitido, se mostrará una ventana emergente de error y se solicitará el reingreso. Si se desea reiniciar los datos de entrada y los resultados, se debe presionar el botón "Limpiar".
 3. Presionar el botón "Calcular" para realizar el cálculo correspondiente y mostrar los resultados.
